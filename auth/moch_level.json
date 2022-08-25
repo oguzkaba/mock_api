@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "level": "Construction Manager"
+    },
+    {
+        "id": 2,
+        "level": "Construction Manager"
+    },
+    {
+        "id": 3,
+        "level": "Estimator"
+    },
+    {
+        "id": 4,
+        "level": "Construction Worker"
+    },
+    {
+        "id": 5,
+        "level": "Construction Expeditor"
+    },
+    {
+        "id": 6,
+        "level": "Construction Foreman"
+    },
+    {
+        "id": 7,
+        "level": "Surveyor"
+    },
+    {
+        "id": 8,
+        "level": "Architect"
+    },
+    {
+        "id": 9,
+        "level": "Estimator"
+    },
+    {
+        "id": 10,
+        "level": "Subcontractor"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "department": "Product Management"
+    },
+    {
+        "id": 2,
+        "department": "Product Management"
+    },
+    {
+        "id": 3,
+        "department": "Product Management"
+    },
+    {
+        "id": 4,
+        "department": "Marketing"
+    },
+    {
+        "id": 5,
+        "department": "Services"
+    }
+]
