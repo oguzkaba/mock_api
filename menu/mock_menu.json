@@ -1,0 +1,75 @@
+[
+    {
+        "main": [
+            "iso details (joints)",
+            "weld map",
+            "spool tracking",
+            "line list",
+            "nde table",
+            "progress",
+            "welders",
+            "change password",
+            "messaging",
+            "change project",
+            "wps list"
+        ]
+    },
+    {
+        "manufacturing": []
+    },
+    {
+        "material": [
+            "material receiving",
+            "heat no list",
+            "material list (view)"
+        ]
+    },
+    {
+        "quality approval": [
+            "fit-up",
+            "weld",
+            "print vt report"
+        ]
+    },
+    {
+        "ndt": [
+            "nde list (wo)",
+            "print wo",
+            "new rt",
+            "list of repair",
+            "list of penalty",
+            "new rpd",
+            "print rpd",
+            "new ft",
+            "print ft",
+            "new pmi",
+            "print pmi"
+        ]
+    },
+    {
+        "ndt": [
+            "prepare release list",
+            "release lists",
+            "see weld log",
+            "waiting release",
+            "release",
+            "inner grinding",
+            "new pressure test",
+            "print pressure test",
+            "send cleaning",
+            "receive cleaning",
+            "waiting cleaning",
+            "accept cleaning",
+            "new cleaning",
+            "print cleaning",
+            "new jacketing",
+            "jacketed spool list"
+        ]
+    },
+    {
+        "coating": []
+    },
+    {
+        "shipping": []
+    }
+]
